@@ -13,6 +13,9 @@ This project explores what audiences love, how genres stack up, and which films 
   👉 [View Dashboard]([[https://public.tableau.com/views/AmazonPrime_16985203484140/AmazonPrime](https://public.tableau.com/views/AmazonPrime_16985203484140/AmazonPrime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+<img width="1799" height="999" alt="Amazon Prime" src="https://github.com/user-attachments/assets/c196781b-e772-4db5-99b4-0a7c28542ab1" />
+
+---
 
 ## 🎯 Objectives
 
