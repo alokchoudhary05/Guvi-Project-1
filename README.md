@@ -10,7 +10,7 @@ This project explores what audiences love, how genres stack up, and which films 
 - `movie_ratings_analysis.ipynb` – Python notebook with data analysis and visualizations  
 - `Movie-Rating-Project-Presentation.pdf` – Final project presentation summarizing insights  
 - `Tableau Dashboard` – Interactive visualization for deeper exploration  
-  👉 [View Dashboard]([https://public.tableau.com/views/AmazonPrime_16985203484140/AmazonPrime](https://public.tableau.com/views/AmazonPrime_16985203484140/AmazonPrime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+  👉 [View Dashboard]([[https://public.tableau.com/views/AmazonPrime_16985203484140/AmazonPrime](https://public.tableau.com/views/AmazonPrime_16985203484140/AmazonPrime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
