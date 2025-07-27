@@ -1,6 +1,6 @@
 # Guvi-Project-1
 
-# 🎬 Movie Ratings Analysis Project
+# 🎬 Problem Statement - 11: Movie Ratings Analysis Project
 
 Welcome to a deep dive into the world of movie ratings — where data meets storytelling.  
 This project explores what audiences love, how genres stack up, and which films truly stand out.
